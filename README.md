@@ -11,6 +11,8 @@
 * Mostly working with Python, R, Ruby and Java...
 * My favorite programming languages are Fortran, R and Ruby
 
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atejada
+
 ![](https://komarev.com/ghpvc/?username=atejada&color=gray)
 
 [![Blag on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atejada/)
