@@ -11,7 +11,7 @@
 * Mostly working with Python, R, Ruby and Java...
 * My favorite programming languages are Fortran, R and Ruby
 
-![[(https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atejada)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atejada)
 
 ![](https://komarev.com/ghpvc/?username=atejada&color=gray)
 
