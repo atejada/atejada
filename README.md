@@ -12,7 +12,7 @@
 * My favorite programming languages are Fortran, R and Ruby
 
 
-<p>
+<p align="center">
     <a href="https://vaunt.dev">
         <img src="https://api.vaunt.dev/v1/github/entities/atejada/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" />
     </a>
