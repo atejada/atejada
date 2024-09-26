@@ -12,7 +12,7 @@
 * Worked as a Developer Evangelist for SAP...In Montreal, Silicon Valley and Toronto
 * Worked as a Emerging Technologies Expert for SAP Toronto
 * Worked for SAP for 10 long years
-* Working as a Senior Developer Advocate for Nylas for almost 3 years
+* Worked as a Senior Developer Advocate for Nylas for almost 3 years
 * Punk Rocker since 1991 and AFI fan since 2013
 * Mostly working with Python, R, Ruby, Kotlin and Java
 * My favorite programming languages are Fortran, R and Ruby
