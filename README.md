@@ -14,7 +14,7 @@
 * Worked for SAP for 10 long years
 * Worked as a Senior Developer Advocate for Nylas for almost 3 years
 * Punk Rocker since 1991 and AFI fan since 2013
-* Mostly working with Python, R, Ruby, Kotlin and Java
+* Mostly working with Python 🐍, R 🤓, Ruby 💎, Kotlin 🇰 and Java ☕️
 * My favorite programming languages are Fortran, R and Ruby
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atejada)
