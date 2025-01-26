@@ -4,7 +4,7 @@
     <a href="https://vaunt.dev">
         <img src="https://api.vaunt.dev/v1/github/entities/atejada/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" />
     </a><br>
-<a href="https://app.daily.dev/blag"><img src="https://api.daily.dev/devcards/v2/unIlnnmEFMtCsHQnfhbY6.png?type=default&r=261" width="356" alt="Blag aka Alvaro Tejada Galindo's Dev Card"/></a>    
+<a href="https://app.daily.dev/blag"><img src="./devcard.png" width="356" alt="Blag aka Alvaro Tejada Galindo's Dev Card"/></a>    
 </p>
 
 * Started learning programming more than 25 years ago..and became addicted to it
