@@ -14,7 +14,7 @@
 * Worked for SAP for 10 long years
 * Worked as a Senior Developer Advocate for Nylas for almost 3 years
 * Worked as a Technical Writer (Contractor) for Celo Foundation for 3 months
-* Working as a Technical Architect for Diff Consulting for the last 2 months
+* Working as a Technical Architect for Diff for 1 year
 * Punk Rocker since 1991 and AFI fan since 2013
 * Mostly working with Python 🐍, R 🤓, Ruby 💎, Kotlin 🇰 and Java ☕️
 * My favorite programming languages are Fortran, R, and Ruby
